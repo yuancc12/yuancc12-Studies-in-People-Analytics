@@ -1,1 +1,1 @@
-# yuancc12-Studies-in-People-Analytics
+# Studies-in-People-Analytics
