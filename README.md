@@ -1,6 +1,6 @@
 # Studies-in-People-Analytics
 
-# 111-2人員數據分析
+# 113-2人員數據分析
 # 目錄
 + [簡介](https://github.com/yuancc12/JavaScript/blob/main/README.md#%E7%B0%A1%E4%BB%8B)
 + [自我介紹](https://github.com/yuancc12/JavaScript/blob/main/README.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
@@ -29,4 +29,6 @@
 # 練習專區
 # 作業專區
 # 課堂PPT
++ [第二周](https://moodle3.ntnu.edu.tw/mod/resource/view.php?id=744803)
++ [第三周](https://moodle3.ntnu.edu.tw/mod/resource/view.php?id=744807)
 # 專題演講
