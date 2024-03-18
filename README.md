@@ -31,4 +31,5 @@
 # 課堂PPT
 + [第二周](https://moodle3.ntnu.edu.tw/mod/resource/view.php?id=744803)
 + [第三周](https://moodle3.ntnu.edu.tw/mod/resource/view.php?id=744807)
++ [第五周](https://moodle3.ntnu.edu.tw/pluginfile.php/1237797/mod_resource/content/1/%E4%BA%BA%E5%93%A1%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90PPT_NTNU_2023.pdf)
 # 專題演講
